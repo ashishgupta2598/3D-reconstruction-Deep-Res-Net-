@@ -1,6 +1,6 @@
 # 3D-reconstruction-Deep-Res-Net
 It Contains two files.One is for data preparation(Preparation Dataset.ipynb) as the directory structure is Bit complex.
-And the other one is for traning and testing(Contains Deep Res Net).
+And the other one is for traning and testing(Contains Deep Res Net)(3D_reconstructVNET.ipynb).
 
 # DataSet
 DataSet is taken from 3D R2N2 Research Paper.
